@@ -43,36 +43,36 @@
   <text x="492" y="12" font-size="12" text-anchor="start" fill="red">512</text>
 
   <!--hair-->
-  <path d="M 192 10, 165 62, 235 62, 196 128" stroke="#F00" stroke-width="10" stroke-linejoin="round" opacity="0.3" fill="none"/>
+  <path d="M 192 10, 165 62, 235 62, 196 128" stroke="black" stroke-width="10" stroke-linejoin="round" opacity="0.3" fill="none"/>
   
   <!--head-->
-  <path d="M 4 124, 386 124, 386 382, 4 382, 4 124" stroke="#F00" stroke-width="10" stroke-linejoin="round" opacity="0.3" fill="none"/>
+  <path d="M 4 124, 386 124, 386 382, 4 382, 4 124" stroke="black" stroke-width="10" stroke-linejoin="round" opacity="0.3" fill="none"/>
   
   <!--eyes & mouth-->
-  <path d="M 0 233, 113 233" stroke="#F00" stroke-width="10" stroke-linejoin="round" opacity="0.3" fill="none"/>
-  <path d="M 280 233, 390 233" stroke="#F00" stroke-width="10" stroke-linejoin="round" opacity="0.3" fill="none"/>
-  <path d="M 170 325 A 20 25, 0, 1, 0, 215 325" stroke="#F00" stroke-width="10" stroke-linejoin="round" opacity="0.3" fill="none"/>
+  <path d="M 0 233, 113 233" stroke="black" stroke-width="10" stroke-linejoin="round" opacity="0.3" fill="none"/>
+  <path d="M 280 233, 390 233" stroke="black" stroke-width="10" stroke-linejoin="round" opacity="0.3" fill="none"/>
+  <path d="M 170 325 A 20 25, 0, 1, 0, 215 325" stroke="black" stroke-width="10" stroke-linejoin="round" opacity="0.3" fill="none"/>
   
   <!--body-->
-  <path d="M 145 384, A 156, 156, 0, 0, 0, 128 448" stroke="#F00" stroke-width="10" stroke-linejoin="round" opacity="0.3" fill="none"/>
-  <path d="M 242 384, A 156, 156, 0, 0, 1, 259 448" stroke="#F00" stroke-width="10" stroke-linejoin="round" opacity="0.3" fill="none"/>
-  <path d="M 160 488, 227 488" stroke="#F00" stroke-width="10" stroke-linejoin="round" opacity="0.3" fill="none"/>
+  <path d="M 145 384, A 156, 156, 0, 0, 0, 128 448" stroke="black" stroke-width="10" stroke-linejoin="round" opacity="0.3" fill="none"/>
+  <path d="M 242 384, A 156, 156, 0, 0, 1, 259 448" stroke="black" stroke-width="10" stroke-linejoin="round" opacity="0.3" fill="none"/>
+  <path d="M 160 488, 227 488" stroke="black" stroke-width="10" stroke-linejoin="round" opacity="0.3" fill="none"/>
   
   <!--limbs-->
-  <path d="M 138 405, 94 448 A 16 36, 40, 1, 0, 120 468" stroke="#F00" stroke-width="10" stroke-linejoin="round" opacity="0.3" fill="none"/>
-  <path d="M 251 405, 295 448 A 16 36, 140, 1, 1, 269 468" stroke="#F00" stroke-width="10" stroke-linejoin="round" opacity="0.3" fill="none"/>
-  <path d="M 128 448 A 16 26, 150, 1, 0, 156 496 A 22 26, 162, 1, 0, 128 448" stroke="#F00" stroke-width="10" stroke-linejoin="round" opacity="0.3" fill="none"/>
-  <path d="M 259 448 A 16 26, 20, 1, 1, 234 496 A 22 26, -2, 1, 1, 259 448" stroke="#F00" stroke-width="10" stroke-linejoin="round" opacity="0.3" fill="none"/>
+  <path d="M 138 405, 94 448 A 16 36, 40, 1, 0, 120 468" stroke="black" stroke-width="10" stroke-linejoin="round" opacity="0.3" fill="none"/>
+  <path d="M 251 405, 295 448 A 16 36, 140, 1, 1, 269 468" stroke="black" stroke-width="10" stroke-linejoin="round" opacity="0.3" fill="none"/>
+  <path d="M 128 448 A 16 26, 150, 1, 0, 156 496 A 22 26, 162, 1, 0, 128 448" stroke="black" stroke-width="10" stroke-linejoin="round" opacity="0.3" fill="none"/>
+  <path d="M 259 448 A 16 26, 20, 1, 1, 234 496 A 22 26, -2, 1, 1, 259 448" stroke="black" stroke-width="10" stroke-linejoin="round" opacity="0.3" fill="none"/>
 
   <!--tail-->
-  <path d="M 275 425 Q 330 390, 365 420 Q 416 446, 443 390" stroke="#F00" stroke-width="10" stroke-linejoin="round" opacity="0.3" fill="none"/>
-  <path d="M 439 357 A 15 22, 25, 1, 0, 470 372z" stroke="#F00" stroke-width="10" stroke-linejoin="round" opacity="0.3" fill="none"/>
-  <path d="M 450 362, 458 345" stroke="#F00" stroke-width="10" stroke-linecap="round" opacity="0.3" fill="none"/>
-  <path d="M 460 367, 468 350" stroke="#F00" stroke-width="10" stroke-linecap="round" opacity="0.3" fill="none"/>
+  <path d="M 275 425 Q 330 390, 365 420 Q 416 446, 443 390" stroke="yellow" stroke-width="10" stroke-linejoin="round" opacity="0.3" fill="none"/>
+  <path d="M 439 357 A 15 22, 25, 1, 0, 470 372z" stroke="yellow" stroke-width="10" stroke-linejoin="round" opacity="0.3" fill="none"/>
+  <path d="M 450 362, 458 345" stroke="yellow" stroke-width="10" stroke-linecap="round" opacity="0.3" fill="none"/>
+  <path d="M 460 367, 468 350" stroke="yellow" stroke-width="10" stroke-linecap="round" opacity="0.3" fill="none"/>
   
   <!--tail-lightnings-->
-  <path d="M 434 311, 428 326, 442 326, 437 340" stroke="#F00" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" opacity="0.3" fill="none"/>
-  <path d="M 508 334, 490 339, 501 348, 487 353" stroke="#F00" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" opacity="0.3" fill="none"/>
+  <path d="M 434 311, 428 326, 442 326, 437 340" stroke="black" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" opacity="0.3" fill="none"/>
+  <path d="M 508 334, 490 339, 501 348, 487 353" stroke="black" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" opacity="0.3" fill="none"/>
   
   <defs>
     <path id="edgePath" d="M 192 10, 165 62, 235 62, 196 124, 4 124, 4 382, 145 382, A 156, 156, 0, 0, 0, 138 405 m 0 0, -44 43 A 16 36, 40, 1, 0, 120 468 m 0 0, 1.25 -1.5 A 16 26, 150, 1, 0, 160 488 m 0 0, 64 0 A 22 26, -2, 0, 0, 234 496 A 16 26, 20, 0, 0, 265 464 A 16 36, 140, 1, 0, 295 448 m 0 0, -20 -23 Q 330 390, 365 420 Q 416 446, 443 390 m 0 0 2 -2 A 15 22, 25, 0, 0, 470 372 m 0 0 -31 -15 A 15 22, 25, 0, 0, 445 388 Q 416 446, 365 420 Q 330 390, 275 425 m 0 0, -24 -20 A 156, 156, 0, 0, 1, 242 382 m 0 0, 144 0, 0 -258, -190 0 M 196 124, 235 62, 165 62, 192 10" stroke="#EE0" stroke-width="16" stroke-linejoin="round" opacity="0.3" fill="none"/>
